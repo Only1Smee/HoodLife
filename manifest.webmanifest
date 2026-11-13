@@ -1,13 +1,13 @@
 {
-  "name": "Kingpin: Shack to Penthouse",
-  "short_name": "Kingpin",
-  "description": "Grow, deal, hustle and build an empire from a leaky shack to a Marina penthouse.",
+  "name": "Hood Life",
+  "short_name": "Hood Life",
+  "description": "Grow, hustle and run the block in a blocky city full of heat, heists and hustlers.",
   "start_url": "./",
   "scope": "./",
   "display": "fullscreen",
   "orientation": "any",
-  "background_color": "#07080e",
-  "theme_color": "#0d0f16",
+  "background_color": "#0a0710",
+  "theme_color": "#0a0710",
   "icons": [
     {
       "src": "icon-192.png",
